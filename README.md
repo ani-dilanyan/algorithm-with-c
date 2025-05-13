@@ -30,7 +30,8 @@ This repository contains a comprehensive collection of fundamental algorithms im
    git clone https://github.com/ani-dilanyan/algorithm-with-c.git
    cd algorithm-with-c
 2. **Compile and run a program:**
+   ```bash
    gcc BubbleSort.c -o BubbleSort
    ./BubbleSort
 
-   (Replace BubbleSort.c with the desired source file.)
+  (Replace BubbleSort.c with the desired source file.)
